@@ -1,0 +1,5 @@
+a=[i+1 for i in range(50)]
+b=[i+1 for i in range(0,50,-1)]
+c=[i**2 for i in range(1, 12)]
+d=[i**2 for i in range(1, 12, -1)]
+e=[i**2 for i in range(1, 11)]
